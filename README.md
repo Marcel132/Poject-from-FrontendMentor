@@ -1,2 +1,2 @@
-# Shop
-Clear shop template with HTML and CSS only 
+# project from Frontend Mentor
+url('https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV')
